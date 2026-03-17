@@ -1,20 +1,20 @@
 <!-- Animated Typing Header -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2800&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Wildan;Full+Stack+Developer;I+build+real-world+web+applications;From+ideas+→+production;Open+to+opportunities" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2800&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Wildan;Full+Stack+Web+Developer;I+build+real-world+web+applications;From+ideas+→+production;Open+to+opportunities" />
 </p>
 
-<h3 align="center">🚀 Full Stack Developer who turns ideas into real, scalable products</h3>
+<h3 align="center">🚀 Full Stack Web Developer who turns ideas into real, scalable products</h3>
 
 ---
 
 ## 🧑‍💻 About Me
 
-I enjoy building applications that are not just functional—but actually useful in real life.
+I enjoy building applications that are not just functional but also useful in real life.
 
 Most of my work focuses on **full-stack web development**, where I handle everything from UI to backend logic and deployment. I’m especially interested in combining **AI + web apps** to solve practical problems.
 
-My background in telecommunications trained me to think in systems—so I’m comfortable breaking down complex problems and turning them into clean, working solutions.
+My background in telecommunications trained me to think in systems, so I’m comfortable breaking down complex problems and turning them into clean, working solutions.
 
 Right now, I’m looking for opportunities where I can **build impactful products, learn fast, and contribute to real teams**.
 
