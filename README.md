@@ -109,9 +109,9 @@ Communication • Teamwork • Time Management • Problem Solving
 
 ## 📫 Let's Connect
 
-* 💼 LinkedIn: [[Add your link]](https://www.linkedin.com/in/wildan-rahadian/)
-* 🌐 Portfolio: [[Add your portfolio]](https://wildan-rahadian-personal-web.vercel.app/)
-* 📧 Email: [Add your email](ryan7300@gmail.com)
+* 💼 LinkedIn: [[Wildan Rahadian]](https://www.linkedin.com/in/wildan-rahadian/)
+* 🌐 Portfolio: [[Wildan's Personal Web]](https://wildan-rahadian-personal-web.vercel.app/)
+* 📧 Email: [ryan7300@gmail.com](ryan7300@gmail.com)
 
 ---
 
