@@ -1,94 +1,83 @@
-<h1 align="center">Hi 👋, I'm Wild-and-R</h1>
-<h3 align="center">Full Stack Developer | Building Scalable Web Apps </h3>
+<!-- Animated Typing Header -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2800&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Wildan;Full+Stack+Developer;I+build+real-world+web+applications;From+ideas+→+production;Open+to+opportunities" />
+</p>
+
+<h3 align="center">🚀 Full Stack Developer who turns ideas into real, scalable products</h3>
 
 ---
 
 ## 🧑‍💻 About Me
 
-* 💻 Full Stack Developer with a focus on modern web technologies
-* ⚡ Experienced in building **real-world applications** (e-commerce, social media, AI-powered tools)
-* 🌱 Currently exploring **AI integrations & scalable backend systems**
-* 🎯 Goal: Build impactful, production-ready applications
+I enjoy building applications that are not just functional—but actually useful in real life.
+
+Most of my work focuses on **full-stack web development**, where I handle everything from UI to backend logic and deployment. I’m especially interested in combining **AI + web apps** to solve practical problems.
+
+My background in telecommunications trained me to think in systems—so I’m comfortable breaking down complex problems and turning them into clean, working solutions.
+
+Right now, I’m looking for opportunities where I can **build impactful products, learn fast, and contribute to real teams**.
+
+---
+
+## ⚡ What I Build
+
+* 🛒 Full-stack platforms (e-commerce, dashboards)
+* 🌐 Real-time applications (WebSockets, caching)
+* 🤖 AI-powered tools (OCR + LLM integrations)
+* 🔧 Backend systems & REST APIs
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🎨 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,nodejs,express,laravel,mysql,postgres,git,docker,redis" />
+</p>
 
-`React.js` `Next.js` `Tailwind CSS` `shadcn/ui` `Bootstrap`
-
-### ⚙️ Backend
-
-`Node.js` `Express.js` `Laravel` `REST APIs`
-
-### 🗄️ Database
-
-`MySQL` `PostgreSQL`
-
-### 🧰 Tools & Technologies
-
-`Git` `Docker` `Postman` `Axios` `Redis` `Tesseract.js` `Google Gemini AI`
-
-### 🌍 Languages
-
-* English (Advanced Proficiency)
-* Bahasa Indonesia (Native)
+<p align="center">
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tesseract.js-333333?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏥 CuraLink – Online Doctor Appointment App
+### 🏥 CuraLink — Doctor Appointment System
 
-🔗 Live: https://curalink-production.up.railway.app/
-🔗 Repo: https://github.com/Wild-and-R/CuraLink
+🔗 https://curalink-production.up.railway.app/
+🔗 https://github.com/Wild-and-R/CuraLink
 
-* Book doctor appointments **without login/registration**
-* Real-time scheduling prevents conflicts
-* Admin dashboard for managing appointments
-* Built with **Laravel, MySQL, Bootstrap**
+A frictionless booking system where users can schedule appointments **without signing up**, with real-time availability to prevent conflicts.
 
 ---
 
-### 🛒 Golden Ariadne – Full Stack E-Commerce
+### 🛒 Golden Ariadne — Full Stack E-Commerce
 
-🔗 Live: https://golden-ariadne.vercel.app/
-🔗 Repo: https://github.com/Wild-and-R/Golden-Ariadne
+🔗 https://golden-ariadne.vercel.app/
+🔗 https://github.com/Wild-and-R/Golden-Ariadne
 
-* Complete e-commerce system with:
-
-  * Cart & checkout
-  * Payment integration (Midtrans)
-  * Email notifications
-  * Admin dashboard
-* Built with **Next.js, Supabase, Zustand, Resend**
+A complete e-commerce experience with payments, cart system, admin dashboard, and automated email workflows.
 
 ---
 
-### 🧾 Split-Bill App – AI Receipt Scanner
+### 🧾 Split-Bill — AI Receipt Scanner
 
-🔗 Live: https://wild-and-r-split-bill-app.vercel.app/
-🔗 Repo: https://github.com/Wild-and-R/Split-Bill-App
+🔗 https://wild-and-r-split-bill-app.vercel.app/
+🔗 https://github.com/Wild-and-R/Split-Bill-App
 
-* Upload receipt → auto split bill
-* OCR with **Tesseract.js** + AI parsing using **Google Gemini**
-* Supports **equal split & per-item split**
-* Built with **Next.js + Canvas API**
+Upload a receipt → get structured bill data using **OCR + AI**, then split it however you want.
 
 ---
 
-### 🌐 Circle App – Social Media Platform
+### 🌐 Circle — Social Media Platform
 
-🔗 Live: https://circle-app-theta.vercel.app/
-🔗 Repo: https://github.com/Wild-and-R/Circle-App
+🔗 https://circle-app-theta.vercel.app/
+🔗 https://github.com/Wild-and-R/Circle-App
 
-* Full social media features:
-
-  * Posts, comments, likes, follows
-* Real-time updates using **WebSocket**
-* Optimized with **Redis caching**
-* Built with **React.js & PostgreSQL**
+A real-time social platform with threads, likes, comments, and follows—optimized using caching and WebSockets.
 
 ---
 
@@ -101,19 +90,26 @@
 
 ---
 
-## 🤝 Soft Skills
+## 🤝 Let’s Connect
 
-Communication • Teamwork • Time Management • Problem Solving
+<p align="center">
+  <a href="https://www.linkedin.com/in/wildan-rahadian/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Wildan%20Rahadian-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://wildan-rahadian-personal-web.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+
+  <a href="mailto:ryan7300@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://wa.me/628112250307" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 📫 Let's Connect
-
-* 💼 LinkedIn: [[Wildan Rahadian]](https://www.linkedin.com/in/wildan-rahadian/)
-* 🌐 Portfolio: [[Wildan's Personal Web]](https://wildan-rahadian-personal-web.vercel.app/)
-* 📧 Email: [ryan7300@gmail.com](ryan7300@gmail.com)
-* 💬 WhatsApp: https://wa.me/628112250307
-
----
-
-⭐️ *Check out my repositories and feel free to collaborate!*
+⭐️ *If you're building something interesting, I'd love to be part of it.*
