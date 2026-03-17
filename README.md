@@ -112,6 +112,7 @@ Communication • Teamwork • Time Management • Problem Solving
 * 💼 LinkedIn: [[Wildan Rahadian]](https://www.linkedin.com/in/wildan-rahadian/)
 * 🌐 Portfolio: [[Wildan's Personal Web]](https://wildan-rahadian-personal-web.vercel.app/)
 * 📧 Email: [ryan7300@gmail.com](ryan7300@gmail.com)
+* 💬 WhatsApp: https://wa.me/628112250307
 
 ---
 
